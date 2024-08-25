@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+textarea {
+  width: 300px;
+  height: 100px;
+  margin: 20px 0;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+select {
+  margin: 20px;
+}
+
+div {
+  margin: 10px 0;
+}
